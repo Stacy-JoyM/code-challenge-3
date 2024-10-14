@@ -13,6 +13,7 @@ This project demostrates DOM manipulation, use of event listeners and fetch API 
 * Download a zip in the code button of this repository
 * Open your VS Code and git clone
 * Go live and view project in a browser
+[View Project Here](https://stacy-joym.github.io/code-challenge-3/)
 
 
 ## Known Bugs
