@@ -54,3 +54,8 @@ img {
   padding-bottom: 15px;
 }
 
+body{
+  background-image: url(./movie-theater-popcorn.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
